@@ -1,0 +1,35 @@
+table_name	row_count	expected_rows	matches
+airlines	14	14	1
+airports	1255	1255	1
+planes	4840	4840	1
+weather	26207	26207	1
+flights	435352	435352	1
+key_name	duplicate_keys
+airlines.carrier	0
+airports.faa	0
+planes.tailnum	0
+weather (origin, time_hour)	0
+flights.flight_id	0
+min_id	max_id	row_count	gaps
+1	435352	435352	0
+check_name	orphan_rows	expected
+flights.carrier not in airlines	0	0
+flights.origin not in airports	0	0
+flights.dest not in airports	0	0
+weather.origin not in airports	0	0
+flights.tailnum not in planes (tail number present)	9371	9371
+flights with no weather row (origin + hour)	826	826
+aircraft_not_in_planes
+277
+flight_date_nulls	carrier_nulls	origin_nulls	dest_nulls	status_nulls	sched_dep_nulls	tailnum_nulls	actual_dep_nulls	dep_delay_nulls	actual_arr_nulls	arr_delay_nulls	air_time_nulls	time_hour_nulls
+0	0	0	0	0	0	1913	10738	10738	11453	12534	12534	0
+year_manufactured_nulls
+89
+visibility_nulls	temp_nulls
+23	2
+cancelled_with_delay	completed_without_arr_delay	completed_without_dep_delay	departed_without_delay
+0	0	0	0
+flight_status	flights
+completed	422818
+cancelled	10738
+diverted_or_incomplete	1796

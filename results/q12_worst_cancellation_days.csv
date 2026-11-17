@@ -1,0 +1,11 @@
+flight_date,weekday_name,scheduled_flights,cancelled_flights,cancellation_rate_pct,rainy_hours,min_visibility_miles
+2023-06-27,Tuesday,1227,503,40.99,6,3.00
+2023-07-09,Sunday,1144,491,42.92,5,2.00
+2023-06-26,Monday,1244,481,38.67,6,2.00
+2023-07-16,Sunday,1163,399,34.31,21,1.00
+2023-09-10,Sunday,1147,375,32.69,8,2.50
+2023-09-08,Friday,1215,300,24.69,4,0.50
+2023-07-25,Tuesday,1233,280,22.71,7,1.50
+2023-07-14,Friday,1242,279,22.46,4,5.00
+2023-09-09,Saturday,959,264,27.53,0,3.00
+2023-06-25,Sunday,1150,256,22.26,2,0.50

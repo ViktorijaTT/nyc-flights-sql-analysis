@@ -1,0 +1,10 @@
+origin,dest_rank,dest,dest_airport_name,flights
+EWR,1,MCO,Orlando International Airport,7262
+EWR,2,ATL,Hartsfield Jackson Atlanta International Airport,5915
+EWR,3,LAX,Los Angeles International Airport,5906
+JFK,1,LAX,Los Angeles International Airport,10045
+JFK,2,SFO,San Francisco International Airport,7440
+JFK,3,BOS,General Edward Lawrence Logan International Airport,6432
+LGA,1,ORD,Chicago O'Hare International Airport,9923
+LGA,2,BOS,General Edward Lawrence Logan International Airport,8217
+LGA,3,ATL,Hartsfield Jackson Atlanta International Airport,7883

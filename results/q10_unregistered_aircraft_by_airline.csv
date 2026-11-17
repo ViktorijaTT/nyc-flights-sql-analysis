@@ -1,0 +1,15 @@
+carrier,airline_name,scheduled_flights,flights_unregistered_tailnum,aircraft_not_in_registry,share_of_flights_pct
+DL,Delta Air Lines Inc.,61562,4011,60,6.52
+B6,JetBlue Airways,66169,1642,28,2.48
+UA,United Air Lines Inc.,79641,859,24,1.08
+G4,Allegiant Air,671,668,94,99.55
+YX,Republic Airline,88785,563,7,0.63
+AS,Alaska Airlines Inc.,7843,547,25,6.97
+OO,SkyWest Airlines Inc.,6432,524,5,8.15
+NK,Spirit Air Lines,15189,467,15,3.07
+MQ,Envoy Air,357,73,16,20.45
+WN,Southwest Airlines Co.,12385,9,2,0.07
+F9,Frontier Airlines Inc.,1286,8,3,0.62
+9E,Endeavor Air Inc.,54141,0,0,0.00
+AA,American Airlines Inc.,40525,0,0,0.00
+HA,Hawaiian Airlines Inc.,366,0,0,0.00

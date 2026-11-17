@@ -1,0 +1,49 @@
+origin,dest,carrier,airline_name,flights
+EWR,DEN,UA,United Air Lines Inc.,3251
+LGA,MDW,WN,Southwest Airlines Co.,2612
+LGA,DAL,WN,Southwest Airlines Co.,1365
+EWR,SNA,UA,United Air Lines Inc.,1081
+LGA,HOU,WN,Southwest Airlines Co.,1021
+EWR,GSO,YX,Republic Airline,963
+JFK,ITH,9E,Endeavor Air Inc.,715
+EWR,BGR,YX,Republic Airline,668
+EWR,ALB,YX,Republic Airline,668
+EWR,PVD,YX,Republic Airline,656
+LGA,BGM,9E,Endeavor Air Inc.,651
+JFK,BQN,B6,JetBlue Airways,623
+LGA,XNA,YX,Republic Airline,622
+EWR,MHT,YX,Republic Airline,617
+EWR,ILM,YX,Republic Airline,589
+JFK,BGR,9E,Endeavor Air Inc.,516
+EWR,MDT,YX,Republic Airline,510
+JFK,IAH,B6,JetBlue Airways,406
+JFK,ONT,B6,JetBlue Airways,365
+JFK,SRQ,B6,JetBlue Airways,365
+JFK,BUR,B6,JetBlue Airways,365
+EWR,BQN,UA,United Air Lines Inc.,365
+EWR,SMF,UA,United Air Lines Inc.,365
+JFK,SNA,AA,American Airlines Inc.,365
+JFK,SMF,B6,JetBlue Airways,364
+JFK,PSE,B6,JetBlue Airways,333
+LGA,TUL,YX,Republic Airline,318
+LGA,ORH,9E,Endeavor Air Inc.,299
+EWR,HNL,UA,United Air Lines Inc.,273
+LGA,SCE,9E,Endeavor Air Inc.,273
+LGA,HHH,YX,Republic Airline,255
+LGA,EYW,YX,Republic Airline,244
+EWR,STT,UA,United Air Lines Inc.,236
+JFK,ABQ,B6,JetBlue Airways,217
+EWR,HHH,YX,Republic Airline,217
+EWR,OAK,NK,Spirit Air Lines,215
+EWR,BZN,UA,United Air Lines Inc.,200
+EWR,JAC,UA,United Air Lines Inc.,194
+JFK,SJC,B6,JetBlue Airways,194
+EWR,RIC,YX,Republic Airline,182
+EWR,AVP,YX,Republic Airline,145
+JFK,RNO,B6,JetBlue Airways,141
+EWR,TYS,G4,Allegiant Air,129
+EWR,VPS,G4,Allegiant Air,109
+LGA,PHL,YX,Republic Airline,108
+JFK,EGE,AA,American Airlines Inc.,105
+LGA,HYA,B6,JetBlue Airways,104
+JFK,HYA,B6,JetBlue Airways,104

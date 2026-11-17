@@ -1,0 +1,4 @@
+origin,airport_name,scheduled_flights,cancelled_flights,cancellation_rate_pct,on_time_rate_pct,avg_dep_delay_min
+EWR,Newark Liberty International Airport,138578,3633,2.62,77.13,15.24
+LGA,La Guardia Airport,163726,4257,2.60,81.63,10.73
+JFK,John F Kennedy International Airport,133048,2848,2.14,76.84,15.74

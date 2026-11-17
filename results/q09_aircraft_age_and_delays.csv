@@ -1,0 +1,5 @@
+age_order,aircraft_age_band,scheduled_flights,cancellation_rate_pct,on_time_rate_pct,avg_arr_delay_min
+1,Under 10 years old,155415,1.97,79.18,3.19
+2,10 to 19 years old,171629,2.72,79.47,3.47
+3,20 years or older,89248,0.91,76.28,8.31
+5,Year unknown,7776,2.13,79.42,4.20

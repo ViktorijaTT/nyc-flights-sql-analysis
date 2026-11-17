@@ -1,0 +1,12 @@
+carrier,airline_name,scheduled_flights,cancelled_flights,cancellation_rate_pct,completed_flights,on_time_rate_pct,avg_arr_delay_min
+YX,Republic Airline,88785,3062,3.45,85431,86.33,-4.64
+9E,Endeavor Air Inc.,54141,1761,3.25,52204,83.81,-2.23
+DL,Delta Air Lines Inc.,61562,946,1.54,60364,80.30,1.64
+AA,American Airlines Inc.,40525,585,1.44,39750,79.66,5.27
+AS,Alaska Airlines Inc.,7843,69,0.88,7734,79.62,0.08
+WN,Southwest Airlines Co.,12385,280,2.26,12048,77.08,5.76
+OO,SkyWest Airlines Inc.,6432,218,3.39,6199,76.03,13.71
+UA,United Air Lines Inc.,79641,1831,2.30,77438,75.10,9.04
+NK,Spirit Air Lines,15189,362,2.38,14769,74.42,9.89
+B6,JetBlue Airways,66169,1547,2.34,64280,68.62,15.61
+F9,Frontier Airlines Inc.,1286,68,5.29,1218,62.40,26.24

@@ -1,0 +1,8 @@
+weekday_order,weekday_name,scheduled_flights,cancellation_rate_pct,on_time_rate_pct,avg_dep_delay_min
+1,Monday,64956,2.85,78.49,14.51
+2,Tuesday,64363,2.74,81.57,10.75
+3,Wednesday,64538,1.59,80.85,10.55
+4,Thursday,64631,1.19,79.77,11.80
+5,Friday,64819,2.76,75.99,16.41
+6,Saturday,50667,2.64,77.93,15.64
+7,Sunday,61378,3.59,76.18,16.88

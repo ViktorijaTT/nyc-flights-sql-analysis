@@ -1,0 +1,5 @@
+weather_group,scheduled_flights,cancellation_rate_pct,on_time_rate_pct,avg_dep_delay_min,avg_arr_delay_min
+Rain (0.01 inch or more),27884,5.47,65.39,23.42,19.06
+Other,40421,3.86,70.01,20.45,14.05
+Low visibility (under 1 mile),2289,1.83,73.37,18.52,11.48
+"Clear (10 miles, no rain)",363407,2.09,80.69,12.24,2.20
